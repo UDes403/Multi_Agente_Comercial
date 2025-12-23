@@ -4,7 +4,7 @@ Multiagente conversacional basado en **arquitectura multi-agente**
 usando **LangGraph**, **Ollama**, **ChromaDB** y **Streamlit**.
 
 ## 🚀 Características
-- 100 % local (sin costos)
+- 100 % local
 - Arquitectura multi-agente
 - Recomendaciones inteligentes
 - Persistencia de pedidos y feedback
@@ -29,3 +29,4 @@ cd multi-agente-ventas
 pip install -r requirements.txt
 ollama run llama3
 streamlit run interfaz.py
+
