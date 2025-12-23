@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+langchain
+langchain-community
+langgraph
+pydantic
+typing-extensions
+pytest
+httpx

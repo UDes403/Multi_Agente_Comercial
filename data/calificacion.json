@@ -1,0 +1,20 @@
+{
+    "text": "Cómo calificarías tu experiencia de compra?",
+    "buttons":[
+        {
+        "label": "Muy mala ⭐", "payload": "RATE_EXPERIENCE_1"
+        },
+        {
+        "label": "Mala ⭐⭐", "payload": "RATE_EXPERIENCE_2"
+        },
+        {
+        "label": "Regular ⭐⭐⭐", "payload": "RATE_EXPERIENCE_3"
+        },
+        {
+        "label": "Buena ⭐⭐⭐⭐", "payload": "RATE_EXPERIENCE_4"
+        },
+        {
+        "label": "Excelente ⭐⭐⭐⭐⭐", "payload": "RATE_EXPERIENCE_5"
+        }
+    ]
+}
